@@ -2,6 +2,7 @@ Here is CharlotteLuna. A full stack developer and making something interesting.
 ----
 ## Who am I
 - A normal ~~(cat)~~ girl.
+- Senior Network Engineer
 - Senior Frontend Engineer
 - Senior Designer
 - Junior Python Engineer
