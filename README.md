@@ -5,7 +5,8 @@ Here is CharlotteLuna. A full stack developer and making something interesting.
 - Senior Network Engineer
 - Senior Frontend Engineer
 - Senior Designer
-- Junior Python Engineer
+- Senior Python Engineer
+- Senior C Engineer
 - Junior PHP Engineer
 - Junior Golang Engineer
 ----
